@@ -1,0 +1,15 @@
+publisher:
+  name: Comune di Trento
+  description: |
+    Il Comune di Trento rappresenta a livello italiano una delle più importanti
+    città smart di piccole e medie dimensioni, insignita dalla IEEE del titolo
+    di IEEE Core Smart Cities.
+  github_organization_url: github.com/ComuneTrento
+  short_name: Comune Trento
+  website: https://www.comune.trento.it
+  tags:
+    - documents
+    - public
+    - documentation
+    - documentazione
+  logo: assets/images/semi-orizz_colore.svg
