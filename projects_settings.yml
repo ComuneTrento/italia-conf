@@ -1,0 +1,14 @@
+projects:
+  - name: Agenda Digitale 2020 - 2023
+    description: |
+      Il presente documento formalizza l’Agenda Digitale del Comune di Trento
+      per il triennio 2020 - 2022. Vi sono raccolte tutte le iniziative in
+      corso o che verranno realizzate per rendere Trento una città digitale in
+      grado di mettere a beneficio comune il potenziale delle tecnologie ICT
+      al fine di favorire innovazione, progresso e crescita economica.
+    documents:
+      - agenda-digitale-docs
+    tags:
+      - digital
+      - agenda
+      - agenda digitale
